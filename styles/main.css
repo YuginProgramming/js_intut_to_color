@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    padding: 30px;
+    
+    
+}
+
+.colorOne {
+    background-color: aquamarine;
+    height: 50px;
+    width: 80px;
+    margin-left: 70px;
+}
+
+input {
+    height: 30px;
+}
